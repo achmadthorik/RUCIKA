@@ -1,0 +1,3 @@
+1. Create Database bernama `kebakaran2`
+2. String url = "http://192.168.43.105/RUCIKA/add_data.php?asap=";
+   sesuaikan ip dengan ip server yan digunakan. String url terdapat pada program arduino
